@@ -1,11 +1,11 @@
 {
   "Items": [
     {
-      "id": "0",
+      "idnumber": 0,
       "cost": 25
     },
     {
-      "id": "1", 
+      "idnumber": 0, 
       "cost": 50
     }
   ]
