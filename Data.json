@@ -2,11 +2,11 @@
   "Items": [
     {
       "idnumber": "0",
-      "cost": "25"
+      "cost": "25m"
     },
     {
       "idnumber": "1", 
-      "cost": "50"
+      "cost": "50m"
     }
   ]
 }
